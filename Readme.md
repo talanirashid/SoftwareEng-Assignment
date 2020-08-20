@@ -40,7 +40,7 @@
 
 ## Important Links
   
-1. [View Submission](https://github.com/talanirashid/SoftwareEng-Assignment/tree/master/Pape3)
+1. [View Submission](https://github.com/talanirashid/SoftwareEng-Assignment/tree/master/Paper3)
 2. [Visit Paper](https://conf.researchr.org/details/icpc-2020/icpc-2020-industry/3/Understanding-What-Software-Engineers-Are-Working-on-The-Work-Item-Prediction-Chall)
 
 |# |Authors | Personal Profile |
